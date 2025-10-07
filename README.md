@@ -27,7 +27,7 @@
 
 ## About me
 
-Hello there, I’m Henrique Varela (@henrique11varela).  
+Hello there, I’m Henrique Varela [(@henrique11varela)](https://github.com/henrique11varela).  
 I'm interested in web development, micro controllers and gamedev.  
 To reach me use my [LinkedIn](https://www.linkedin.com/in/henrique-varela/)
 
